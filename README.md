@@ -1,3 +1,7 @@
+Please view this file in it's original format.
+
+Useful git commands:
+
 Use 'git init' in the root of the folder to start a repo.
 
 Use 'git status' to see what files are in he repo.
